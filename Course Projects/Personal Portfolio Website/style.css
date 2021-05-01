@@ -93,6 +93,9 @@ footer {
 .navbar.sticky .logo a span {
   color: white;
 }
+a.menu-btn {
+  display: block;
+}
 .navbar .menu li {
   display: inline-block;
 }
